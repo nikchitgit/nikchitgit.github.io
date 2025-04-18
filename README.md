@@ -25,7 +25,7 @@
         <h2 class="emoji">📍 Overview</h2>
         <p><strong>Travel Dates:</strong> Flexible<br>
         <strong>Travel Mode:</strong> Road trip by private car<br>
-        <strong>Group:</strong> 5 People — You, your wife, 13-year-old son, your friend, and his wife<br>
+        <strong>Group:</strong> 5 People <br>
         <strong>Total Budget:</strong> ₹75,000 (approx.)</p>
     </div>
 
