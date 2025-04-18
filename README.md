@@ -25,7 +25,7 @@
         <p><strong>Travel Dates:</strong> Flexible<br>
         <strong>Travel Mode:</strong> Road trip by private car<br>
         <strong>Group:</strong> 5 People <br>
-        <strong>Total Budget:</strong> ₹75,000 (approx.)</p>
+        <strong>Total Budget:</strong> ₹50,000–₹60,000 (approx.)</p>
     </div>
 
     <div class="section">
